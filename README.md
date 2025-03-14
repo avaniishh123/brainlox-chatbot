@@ -51,11 +51,3 @@ This is an AI-powered chatbot that helps users find relevant courses from Brainl
 **Usage**  
 
 Enter a query (e.g., "Do you offer cloud computing training?"). The chatbot retrieves relevant course details. If no relevant course is found, it responds accordingly.  
-
-**Contributing**  
-
-Feel free to fork the repo, improve the chatbot, and submit a pull request.  
-
-**License**  
-
-MIT License - Free to use and modify.  
